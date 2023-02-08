@@ -1,3 +1,3 @@
 const clc = require('cli-color');
 
-console.log('Sean' + clc.red(" is Red"));
+console.log('Sean is' + clc.red("Red"));
